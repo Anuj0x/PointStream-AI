@@ -1,9 +1,5 @@
 
 
-## 🚀 What's New in v3.0
-
-LiGuard 3.0 represents a complete architectural transformation with cutting-edge performance optimizations and modern development practices:
-
 - **🔄 Async Architecture**: Concurrent processing using Python's async/await for maximum throughput
 - **⚡ Performance**: Numba JIT compilation accelerating CPU-intensive operations by 2-5x
 - **🎨 Modern GUI**: Dear PyGui framework replacing legacy Open3D GUI for responsive visualization
